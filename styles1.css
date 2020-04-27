@@ -1,26 +1,6 @@
 body{
     background-image: url(https://images2.alphacoders.com/564/564835.jpg)
 }
-h1{
-                color: #2e1801;
-                font-weight:800;
-                text-align: center;
-            }
-h2 {
-                font-weight:600;
-                color: #7a0526;
-                text-align: left;
-            }
-h3{
-                font-weight: 400;
-                color:darkorchid;
-                text-align: left;
-}
-h4{
-                color: #66001e;
-                font-weight: 300;
-                text-align: left;
-            }
 ol li{
                 color:aliceblue;
                 font-weight: 200;
