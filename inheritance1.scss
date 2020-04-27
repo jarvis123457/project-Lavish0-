@@ -1,0 +1,21 @@
+%message {
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 20px;
+    color: aliceblue;
+}
+h1{
+   @extend %message;
+}
+h2{
+    @extend %message;
+}
+h3{
+    @extend %message;
+}
+h4{
+    @extend %message;
+}
