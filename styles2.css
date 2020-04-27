@@ -1,0 +1,11 @@
+@media print {
+                .grid {
+                    display: none;
+                }
+                 .grid-item {
+                     display: none;
+                 }
+                 .screen-only{
+                     display: none;
+                 }
+            }
